@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87b6697c-74b0-4ea3-84be-eed403044e2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/calculateur/CalculateurDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/controleur/ContactControleur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/dao/AdresseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/dao/ContactDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/dao/CoordonneesDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/dao/DAOGenerique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/dto/AdresseDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/dto/ContactDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/dto/ContactRequete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/dto/CoordonneesDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/modele/Adresse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/modele/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/modele/Coordonnees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cal335/projet/service/ContactService.java" afterDir="false" />
-    </list>
+    <list default="true" id="87b6697c-74b0-4ea3-84be-eed403044e2a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
